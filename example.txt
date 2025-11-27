@@ -1,2 +1,4 @@
 This is an example file
+Iam adding a new line
+
 -dev2 added
